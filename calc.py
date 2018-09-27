@@ -1,7 +1,6 @@
 # Astral's Calcultor 
 # Date: 9.27.18
 
-
 # Menu
 print("Hello welcome to my calculator!\n")
 print("1: Addition")
